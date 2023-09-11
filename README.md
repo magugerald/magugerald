@@ -20,7 +20,7 @@
 
 - 💬 Ask me about **Machine Learning**
 
-- 📫 How to reach me **magugerald@gmail.com**
+- 📫 How to reach me **[Linkedin](https://www.linkedin.com/in/magugerald/)**
 
 - ⚡ Fun fact **Average people .... can often be Mean**
 
