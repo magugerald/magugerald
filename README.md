@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/magugerald" target="blank"><img src="https://img.shields.io/twitter/follow/magugerald?logo=twitter&style=for-the-badge" alt="magugerald" /></a> </p>
 
-- 🔭 I'm currently working on **Machine Learning Models**.
+- 🔭 I'm currently working on **Machine Learning Models**
 
 - 🌱 I’m currently learning **Swimming and Surfing**
 
