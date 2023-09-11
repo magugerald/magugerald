@@ -10,15 +10,15 @@
 
 <p align="left"> <a href="https://twitter.com/magugerald" target="blank"><img src="https://img.shields.io/twitter/follow/magugerald?logo=twitter&style=for-the-badge" alt="magugerald" /></a> </p>
 
-- 🔭 I’m currently working on [Credible Researchers](https://www.credibleresearchers.com/)
+- 🔭 
 
 - 🌱 I’m currently learning **Mountain Climbing**
 
 - 👨‍💻 All of my projects are available at [https://github.com/magugerald](https://github.com/magugerald)
 
-- 📝 I regularly write articles on [https://www.credibleresearchers.com/](https://www.credibleresearchers.com/)
+- 📝 
 
-- 💬 Ask me about **Data Analysis, Machine Learning & AI**
+- 💬 Ask me about **Machine Learning**
 
 - 📫 How to reach me **magugerald@gmail.com**
 
