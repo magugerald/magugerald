@@ -10,19 +10,19 @@
 
 <p align="left"> <a href="https://twitter.com/magugerald" target="blank"><img src="https://img.shields.io/twitter/follow/magugerald?logo=twitter&style=for-the-badge" alt="magugerald" /></a> </p>
 
-- 🔭 
+- 🔭 I'm currently working on Machine Learning only.
 
 - 🌱 I’m currently learning **Mountain Climbing**
 
 - 👨‍💻 All of my projects are available at [https://github.com/magugerald](https://github.com/magugerald)
 
-- 📝 
+- 📝 We can check my Portfolio at **[Gerald Magu](https://www.magugerald.com/)**
 
-- 💬 Ask me about **Machine Learning**
+- 💬 Ask me about **Data Analysis, Machine Learning and Artificial Intelligence (AI)**
 
 - 📫 How to reach me **[Linkedin](https://www.linkedin.com/in/magugerald/)**
 
-- ⚡ Fun fact **Average people .... can often be Mean**
+- ⚡ Fun fact **Hardwork can beat Talent**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
